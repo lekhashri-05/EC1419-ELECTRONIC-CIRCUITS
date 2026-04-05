@@ -6,7 +6,16 @@
 
 ## ATTACH THE CORRECT CIRCUIT
 
-## GRAPHS
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/d0b877c8-baf1-48a5-ad91-24f4816809a6" />
+
+
+
+
+
+
+
+
+
 
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
