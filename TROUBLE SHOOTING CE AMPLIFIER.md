@@ -24,4 +24,9 @@
 
 ## Semilog Graph
 
+
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/a6c57089-1190-4e7d-a47b-c9eabf549b57" />
+
+
+
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
